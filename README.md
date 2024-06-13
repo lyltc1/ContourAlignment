@@ -1,7 +1,7 @@
-# SYM-Net
+# ContourAlignment
 This repo provides the PyTorch implementation of the work:
 
-**SYM-Net: Symmetry aware Net.
+**Refinement Based on Contour Alignment for Monocular 6D Object Pose Estimation
 
 ## Overview
 
